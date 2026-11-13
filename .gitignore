@@ -1,0 +1,17 @@
+# Compiled executable
+/Wonderland
+
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# Temporary Office files
+~$*
+
+# Private academic documents
+*.docx
+
+# Editor and backup files
+*.swp
+*.swo
+*~

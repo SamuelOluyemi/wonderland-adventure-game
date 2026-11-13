@@ -1,0 +1,21 @@
+Book|The Barn|0|1|0
+Cake|The Farmhouse kitchen|1|1|-1
+Cake|The Hall of Doors|1|1|1
+Bottle|The Farmhouse kitchen|1|1|1
+Bottle|The Hall of Doors|1|1|1
+Cup of tea|The Mad Hatter's Tea party|1|2|0
+Golden door|The Hall of Doors|0|1|0
+Golden key|The Hall of Doors|0|1|0
+Box|The Garden|0|1|0
+Card Coin|The Garden|0|1|0
+Gloves|The Rabbit's house|0|1|0
+Gem|The Play room|0|2|0
+Gem|The Mushroom field|0|2|0
+Gem|The Riverbank|0|2|0
+Precious stone|The Play room|0|1|0
+Precious stone|The River bottom|0|1|0
+Precious stone|The King's presence|0|1|0
+Saucepan|The Farmhouse kitchen|0|1|0
+Cutlery|The Farmhouse kitchen|0|1|0
+Pepper|The Farmhouse kitchen|0|1|0
+Egg|The Farmhouse kitchen|1|2|1

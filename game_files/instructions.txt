@@ -1,0 +1,70 @@
+WONDERLAND GAME — INSTRUCTIONS
+
+In this game, Alice has a goal - get to Wonderland.
+This game world is a journey to Wonderland. All locations are path in/into Wonderland
+
+Allowed Commands
+
+Enter commands using words. Commands are not case-sensitive.
+
+Some commands and meaning
+
+You could commands such as:
+go east |	east	|	e	|	forward		|	front	
+Move south |	south	|	s	|	downward	|	down
+Run west |	west	|	w	|	backward	|	back
+
+eat / drink 		- you consume an item	
+carry/ take/ collect 	- you take an item
+drop			- you drop an item
+escape			- you use you precious stone by entering 'escape' into Play room
+Follow			- follow a character
+Look			- this command shows you details of where you're at
+cook			- you cook something
+Talk/ respond		- you speak to a character
+Riddle/deal/card	- you ask for a riddle in specific locations
+Joke			- you ask for a joke in a specific location
+Size			- check your current size
+resize			- you go back to normal size (costs you 2 gems)
+Quit/ exit		- you quit the game (notice that in this game, exit does not mean exit a location, it will quit the game)
+Cry			- you will cry
+Help/h			- you get a list of commands
+
+Use commands such as take or take key, carry, and drop to interact with items.
+Use inventory, invent, or I to check your inventory.
+Note: Enter responses using words, not numerical digits. If the game asks for a number, spell it out in words. For example, enter three instead of 3.
+
+I will leave you to discover the rest as you discover the world of the game!
+
+The game world contains some items such as:
+Gem: you can use two gems to resize
+Precious stone: you can use one precious stone to escape whims of the Queen of Hearts, King of Hearts, or the Animal game into the play room where you can go practice some riddles and listen to some dad jokes. You'd still have to go through the Animal game one way or other though 😊.
+Cake: you can eat cake
+Cup of tea: you can drink cup of tea
+
+Some items may be required to complete tasks or progress through the game.
+
+I will leave you to discover the rest as you discover the world of the game!
+
+You may encounter other characters on your adventure to Wonderland like the white rabbit, the Caterpillar, and so on.
+Use appropriate commands, such as speak, talk, follow, eat, or escape, depending on the situation.
+Pay attention to the characters and the available choices before acting.
+
+Scoring
+Your score is based on the number of locations you visit.
+There is no limit to the points you can earn. Keep exploring Wonderland to increase your score.
+
+Size
+Your size matters in certain locations.
+Some doors can only be accessed when you are the appropriate size.
+Use resize when necessary to change your size and access places you could not enter before.
+
+Pausing the Game
+Type pause to pause the game
+Type play to resume the game
+
+Help and Exit
+Type help or H for assistance.
+Type exit, quit, or Q to leave the game.
+
+Explore, interact, and enjoy your adventure in Wonderland!
